@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManager", "AssetManager.csproj", "{95992180-B9A9-9DEC-E7F0-CAE0B40AE055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManager.Editor", "AssetManager.Editor.csproj", "{9FFFE7A1-437F-0E0C-91E7-70E82DAB5DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95992180-B9A9-9DEC-E7F0-CAE0B40AE055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95992180-B9A9-9DEC-E7F0-CAE0B40AE055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95992180-B9A9-9DEC-E7F0-CAE0B40AE055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95992180-B9A9-9DEC-E7F0-CAE0B40AE055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FFFE7A1-437F-0E0C-91E7-70E82DAB5DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFFE7A1-437F-0E0C-91E7-70E82DAB5DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFFE7A1-437F-0E0C-91E7-70E82DAB5DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFFE7A1-437F-0E0C-91E7-70E82DAB5DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
